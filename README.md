@@ -1,4 +1,4 @@
-# Aplicativo de Compras Vue.js
+# Carrinho de Compras em Vue.js
 
 Esta aplicação Vue.js serve como uma plataforma de compras, onde os usuários podem explorar e adicionar produtos ao carrinho de compras.
 
